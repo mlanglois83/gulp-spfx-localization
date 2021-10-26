@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "ansi-colors": "^4.1.1",
+    "csv-parser": "^3.0.0",
+    "event-stream": "^4.0.1",
+    "fancy-log": "^1.3.3",
+    "fs": "0.0.1-security",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-jsbeautifier": "^3.0.1",
+    "gulp-prettier": "^3.0.0",
+    "through2": "^2.0.1",
+    "vinyl": "^2.2.1"
+  },
+  "deprecated": false,
+  "description": "Generate language file from csv for spfx webparts",
+  "devDependencies": {},
+  "keywords": [
+    "gulp plugin",
+    "csv",
+    "json",
+    "i18n",
+    "sharepoint"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "gulp-spfx-localization",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.21"
+}
